@@ -1,4 +1,3 @@
-![MasterHead](https://camo.githubusercontent.com/38b988c1f94cea8d6c68e5251dd5a09d38b4bf5761ebb3d667456b1b5fd9c74d/68747470733a2f2f73696d706c65636f64696e672e6465762f6173736574732f6465766f70732e676966)
 <h1 align="center">Hi 👋, I'm Gaoussou Abdou Khadre Ndiaye</h1>
 <h3 align="center">I'm a software developer/ DevOps junior engineer. I'm from Senegal currently doing research at Montreal, CA</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
